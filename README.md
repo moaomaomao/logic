@@ -1,0 +1,2 @@
+# logic
+logi miner
